@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Frontend Developer
 
 - 🔭 I Currently works at [Baliola](https://github.com/baliola)
-- ⚡ Passionate about Rust and Blockchain in General!
+- ⚡ Passionate about Web Development and Blockchain in General!
 
 
 ## Github Stats
