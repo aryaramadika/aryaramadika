@@ -1,27 +1,17 @@
-### Hi there 👋 I'm a Frontend Developer
+### Hi there 👋, my name is Arya Ramadika
+####  I'm a Frontend Developer
+Experience in UI Slicing and implementing responsive web design using HTML, CSS, and JavaScript. Also has experience using JavaScript Frameworks such as ReactJs and React TypeScript. and integrating Web3 solutions based on the smart contract using Ethers.js on the Frontend. And has experience in fetching data from APIS.
 
-- 🔭 I Currently works at [Baliola](https://github.com/baliola)
-- ⚡ Passionate about Web Development and Blockchain in General!
+Skills: REACT / TAILWIND / BOOSTRAP / WEB 3 / NEXT JS / TYPESCRIPT
 
-
-## Github Stats
-<img alt="rama github stats" src="https://github-readme-stats.vercel.app/api?username=aryaramadika&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true"></img>
-
-## My Languages
-<img alt="rama's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaramadika&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true"></img>
-
-<!--
-*zianksm/zianksm* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Baliola 
+- 🌱 I’m currently learning Polkadot js and substrate 
 
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aryaramadika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryaramadika/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaramadika&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aryaramadika)  
+
+![Profile views](https://gpvc.arturio.dev/aryaramadika)  
